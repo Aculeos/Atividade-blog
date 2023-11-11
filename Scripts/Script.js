@@ -4,6 +4,13 @@ function valida(){
     window.location.href="node-js.html"
     }
 }
+function voltar(){
+    if(volta.checked){
+        window.location.href="Index.html"
+    }else{
+        alert("clique no checkbox")
+    }
+    }
 function TrocarIMG(){
     
     var opcao = document.getElementById("Passatempo");
