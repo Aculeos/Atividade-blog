@@ -1,7 +1,7 @@
 
 function valida(){
     if(window.confirm("Você prefere backend?")==true){
-    window.location.href="node.html"
+    window.location.href="node-js.html"
     }
 }
 function TrocarIMG(){
