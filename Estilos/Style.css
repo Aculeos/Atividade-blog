@@ -85,6 +85,9 @@ a:link {
 .espaco{
     margin: 10px;
 }
+#cor{
+    color: black;
+}
 @media (max-width: 425px) {
     .post-container .conteudo {
         flex-direction:column;
